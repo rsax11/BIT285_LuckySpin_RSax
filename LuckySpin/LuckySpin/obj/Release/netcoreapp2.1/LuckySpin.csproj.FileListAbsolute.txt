@@ -1,0 +1,5 @@
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Release\netcoreapp2.1\LuckySpin.csprojAssemblyReference.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Release\netcoreapp2.1\LuckySpin.RazorAssemblyInfo.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Release\netcoreapp2.1\LuckySpin.RazorAssemblyInfo.cs
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Release\netcoreapp2.1\LuckySpin.AssemblyInfoInputs.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Release\netcoreapp2.1\LuckySpin.AssemblyInfo.cs

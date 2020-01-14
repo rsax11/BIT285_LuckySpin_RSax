@@ -1,0 +1,14 @@
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.csprojAssemblyReference.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.RazorAssemblyInfo.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.RazorAssemblyInfo.cs
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.AssemblyInfoInputs.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.AssemblyInfo.cs
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\bin\Debug\netcoreapp2.1\LuckySpin.deps.json
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\bin\Debug\netcoreapp2.1\LuckySpin.runtimeconfig.json
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\bin\Debug\netcoreapp2.1\LuckySpin.runtimeconfig.dev.json
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\bin\Debug\netcoreapp2.1\LuckySpin.dll
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\bin\Debug\netcoreapp2.1\LuckySpin.pdb
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.RazorTargetAssemblyInfo.cache
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.dll
+C:\Users\rsax1\source\repos\LuckySpin\LuckySpin\obj\Debug\netcoreapp2.1\LuckySpin.pdb
